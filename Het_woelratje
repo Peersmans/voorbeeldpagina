@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-9">
+        <meta name="description" content="uw tuin in goede handen, tuinonderhoud, snoeien en maaien">
+        <meta name="keywords" content="maaien, zaaien, snoeien, limburg, bree, tuinonderhoud, lage prijs">
+        <title>Het woelratje</title>
+    </head>
+    <body>
+        <header><h1>Het Woelratje</h1>
+            <hr>
+            <!--geen nav ingezet-->
+            <nav>
+            <a href="https://www.nha.nl" target="_blank">NHA</a>
+            <a href="https://www.securex.be/nl/starten-als-zelfstandige?creative=673126979000&keyword=ik%20wil%20zelfstandig%20worden&matchtype=b&network=g&device=c&gclid=CjwKCAjwsKqoBhBPEiwALrrqiFFyvr0brEJ5R08TuLJ8HAZqw1h6oeiNdIkxxT1wbhnwtdDaSa-GlhoCaXQQAvD_BwE" target="_blank">Securex</a>
+            <a href="https://www.acerta.be/nl/insights/blog/starters/test-jezelf-in-wat-word-ik-best-zelfstandige" target="_blank">Acerta</a>
+            </nav>
+        </header>
+        <section>
+        <article>
+            <img src=https://via.placeholder.com/100x100 alt="placeholder">
+            <h2>Nieuw artikel</h2>
+            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
+            </article>
+        </section>
+     <section class="onderhoud, gras, tuin">
+            <article>
+                <img src=https://via.placeholder.com/100x100 alt="placeholder">
+                <h2>Nieuw artikel</h2>
+                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
+                </article>
+            </section>
+            <!--
+                <div id="Tuin">
+            <img src=https://via.placeholder.com/250x250 alt="placeholder">
+            <hr>
+            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim.</p>
+            </div>
+            -->
+        <footer><p><a href="mailto:info@nha.nl"> NHA Helpdesk </a></p></footer>
+    </body>
+</html>
